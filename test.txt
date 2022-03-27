@@ -1,1 +1,1 @@
-[del]======>new [2022-03-27]This is test file!
+[delete]======>new [2022-03-27]This is test file!
